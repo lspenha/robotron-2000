@@ -4,6 +4,18 @@
     --main-preto: #000000;
 }
 
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 13%;
+   margin-bottom: 10%;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -231,3 +243,4 @@ main {
         margin: 10vh auto;
     }
 }
+
